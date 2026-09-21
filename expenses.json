@@ -1,0 +1,17 @@
+[
+   {
+      "amount": 1500,
+      "category": "transport",
+      "description": "kuo"
+   },
+   {
+      "amount": 4500,
+      "category": "clothing",
+      "description": "top"
+   },
+   {
+      "amount": 123,
+      "category": "   ",
+      "description": "   "
+   }
+]
