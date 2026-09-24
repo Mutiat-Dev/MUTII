@@ -1,7 +1,0 @@
-[
-   {
-      "amount": 3200,
-      "category": "Food",
-      "description": "pepper"
-   }
-]
